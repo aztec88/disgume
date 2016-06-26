@@ -1,0 +1,12 @@
+connectors
+core
+manager
+config.core.php
+index.php
+ht.access
+.htaccess
+assets/components
+assets/gallery
+node_modules
+bower_components
+Thumbs.db
